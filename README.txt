@@ -8,12 +8,12 @@ Problems? Questions?
 Contact:
 
 Michael L. Parks  
-parks@cse.uiuc.edu   
-http://www.cse.uiuc.edu/~parks 
+parksml@ornl.gov   
+https://www.ornl.gov/staff-profile/michael-parks 
 
 Eric de Sturler   
-sturler@cs.uiuc.edu  
-http://www-faculty.cs.uiuc.edu/~sturler/
+sturler@vt.edu  
+https://personal.math.vt.edu/sturler/
 ------------------------------------------------------------------
 Usage Guide:
 
