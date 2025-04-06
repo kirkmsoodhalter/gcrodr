@@ -10,3 +10,5 @@ Michael L. Parks, Eric de Sturler, Greg Mackey, Duane Johnson, and Spandan Maiti
 - Matlab code developed by Michael L. Parks for the above paper and as a part of his PhD work
 - Includes example sequence of linear systems from a finite element fracture mechanics problem constructed by Philippe H. Geubelle and Spandan Maiti
 - Warning : This is a research code, not a production code! Should you notice any "strange behavior" (abnormal termination, extremely poor convergence, etc.) please contact Michael Parks.
+
+In addition to citing the above associated paper, please cite when using this code code via [![DOI](https://zenodo.org/badge/949067153.svg)](https://doi.org/10.5281/zenodo.15163387)
